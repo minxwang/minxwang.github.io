@@ -1,20 +1,18 @@
 # site settings
-title: A blog home
-subtitle: by Wallace Wang
-#email: wavefancy@gmail.com
-#description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-description: A computational biologist is working at Broaad Institute in Boston MA. Obsessed by statistical modeling, machine learning, programming, web development and data visualization by web technology. 
-
+title: Forty
+subtitle: by HTML5 UP
+email: youremailaddress@gmail.com
+description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 #baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-#street_address: 1234 Somewhere Road
-#city: Nashville
-#state: TN
-#zip_code: 55555
-#country: United States of America
-#phone: (716) 555-5555
+street_address: 1234 Somewhere Road
+city: Nashville
+state: TN
+zip_code: 55555
+country: United States of America
+phone: (716) 555-5555
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
