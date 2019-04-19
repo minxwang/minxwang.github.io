@@ -3,7 +3,9 @@ title: A blog home
 subtitle: by Wallace Wang
 #email: wavefancy@gmail.com
 #description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-description: A computational biologist is working at Broaad Institute in Boston MA. Obsessed by statistical modeling, machine learning, programming, web development and data visualization by web technology. 
+description: A computational biologist is working at Broaad Institute in Boston MA. <br /> 
+             Obsessed by statistical modeling, machine learning, programming, web development <br /> 
+             and data visualization by web technology. 
 
 #baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 baseurl: "" # the subpath of your site, e.g. /blog
